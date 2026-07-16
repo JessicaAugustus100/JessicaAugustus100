@@ -18,6 +18,7 @@ I'm an aspiring cybersecurity professional currently doing A-levels, and working
 
 ## ⭐ PROJECTS (so far)
 - 🖥️password generator
+- 🪨rock paper scissors
 
 ## LINKS
 - View my projects here >> https://github.com/JessicaAugustus100?tab=repositories
