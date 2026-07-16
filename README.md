@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 Hi, I'm Jess
+
+
+
 Pronouns- she/her
+
+
 I'm an aspiring cybersecurity professional currently doing A-levels, and working towards a cybersecurity degree apprenticeship.
 
 ## ⭐ INTERESTS
