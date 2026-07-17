@@ -20,6 +20,16 @@ I'm an aspiring cybersecurity professional currently doing A-levels, and working
 - 🖥️password generator
 - 🪨rock paper scissors
 
+## ⭐LEARNING
+- python
+- networking
+- linux
+- security fundamentals
+- azure
+- SQL
+- Java
+- TryHackMe
+
 ## LINKS
 - View my projects here >> https://github.com/JessicaAugustus100?tab=repositories
 
