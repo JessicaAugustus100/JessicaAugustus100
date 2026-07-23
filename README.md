@@ -17,8 +17,9 @@ I'm an aspiring cybersecurity professional currently doing A-levels, and working
 - 🎨painting
 
 ## ⭐ PROJECTS (so far)
-- 🖥️password generator
-- 🪨rock paper scissors
+- 🖥️Password Generator
+- ✅Password Strength Checker
+- 🪨Rock Paper Scissors
 
 ## ⭐LEARNING
 - python
